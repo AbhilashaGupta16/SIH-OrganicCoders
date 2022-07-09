@@ -1,14 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
 
+import Navbar from './components/Navbar';
 function App() {
   return (
-    <div className="App">
-     SIH, alok kumax
-     new Line
-     alokkkkkkk
-     date
-    </div>
+<Navbar/>
   );
 }
 
