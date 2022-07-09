@@ -7,7 +7,7 @@ function App() {
      SIH, alok kumax
      new Line
      alokkkkkkk
-     hello
+     hello new
     </div>
   );
 }
