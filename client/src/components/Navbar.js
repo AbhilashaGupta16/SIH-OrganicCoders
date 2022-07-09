@@ -8,6 +8,7 @@ const Navbar = () => {
                 <div>
                     <span >Home</span>
                     <span >Theme</span>
+                    <span >All Logins</span>
                 </div>
             </div>
         </nav>
