@@ -7,6 +7,7 @@ function App() {
      SIH, alok kumax
      new Line
      alokkkkkkk
+     date
     </div>
   );
 }
